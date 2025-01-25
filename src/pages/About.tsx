@@ -18,7 +18,7 @@ export default function About() {
             <h1 className="text-4xl md:text-5xl font-bold mb-6">Our Mission</h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
               To provide exceptional healthcare with compassion and innovation,
-              ensuring every patient receives personalized care of the highest quality.
+              ensuring every patient receives personalized care and treatment of the highest quality .
             </p>
           </div>
         </div>
